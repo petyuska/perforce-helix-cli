@@ -1,1 +1,1 @@
-deb http://package.perforce.com/apt/ubuntu/ xenial release
+deb [signed-by=/usr/share/keyrings/perforce.gpg] https://package.perforce.com/apt/ubuntu noble release
