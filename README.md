@@ -7,6 +7,6 @@ This Docker image with p4cli (perforce command line interface) on Ubuntu 24.04.
 
 [Perforce packages - Configure an APT repository](https://help.perforce.com/helix-core/extras/packages/perforce-packages.html#APT)
 
-[Packages](https://package.perforce.com/apt/ubuntu/dists/noble/)
+[Perforce Packages - Ubuntu Noble](https://package.perforce.com/apt/ubuntu/dists/noble/)
 
 [Upstream install instructions](https://www.perforce.com/perforce/doc.current/manuals/p4sag/index.html#P4SAG/install.linux.packages.install.html%3FTocPath%3DInstalling%2520and%2520upgrading%2520the%2520server%7CLinux%2520package-based%2520installation%7C_____1)
